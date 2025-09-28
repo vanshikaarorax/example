@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hale-equator-441407-p4",
+  "private_key_id": "241e37f00ca1437d1140f795759b9a9e245196f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkhwymTvKl9DG3\nzWF/Z5CsKx9GCkjzcoWKEvRgBBl1AdujWLtuFyFeUEb1uGHTCNXk3qvjXXAn57Pc\nLeJrcMWiGMSTRcounn0Mj26EnT2eDCoJzEyHu1raKKr0erfq3IHZjCfchBsEZ664\nAt3w1U5akG2OcQzqIAGlWJ7Zas/Xvlx+PlsFD7ZFcIJs7SH27lWWiFY1wk0/LMPX\nqM/pF0rBca5LkJjkYXk42XwOfN8WkxSxOwxmUauHNZukKJZYKYwnBhD5T5rBjQrh\nT7QWNeVtngGhlM/LOqwD/ieaDQJEn4v3noVLQsTjISaj6mukLEstUUY2lsrLBXyJ\nf3h+shRJAgMBAAECggEAIVMzdjo2fvPL4EFq9q3pCV6AqqSpqxnuv41gT1R1PZR/\nQwJVkJKB0UMsZFgRBHhdLssFgPurnIGblkT7AC0q8s7WfkgcED5M8O7agWUCFpG7\nMBngBHwoBllHa1ayCxHYAVMYvdtKR6Wip6X5A2+JO+HWNwxiA8gw3SdqoXo3mCik\npmtfyDqlfpW41NGyCeX/hgNLf5agL7ty4GrYdW4qvcIm2v74xiR2oBx4h6OuRzVh\n/h2IzDCU/3fJl2Jh2UlYnTvgydAJNE7p/q4oztmZUsr3TReZRi/hSbrn/mM2W3p1\nfiQAUaWv5CbCI1z55QOd08ydDGvuBNvUradNafSaSwKBgQDj1gfdEd6ar9xHHDGd\nWWBpRn6bM+5IMLoAerAAJ97BOLHJDnUcMgw4fI3eqUr8VBa8AkhWc3ZNcz+29WxV\ngglNhnWUkJnyjnk7grr/7TotlyusDSR/9ceIzmGZfa0rfszqP3Sy/ffHA8XLgCyQ\nUj5ShUIjSbFlwVv7TViDPO0pCwKBgQC43ZfyAXRcNr2Kv/fpe/zrgxlLGRVpA4o7\nIsZdNxuz5TRTuFybj2mrrfltvVy9JXGwAZ9uAsxhHUn8HFLMQTjTTdnMPuI0jMA0\nC6RwzAzZfgTU6w9FloAPHLri4ehaegRAuRvDcJ0MjTMQWYQS145IH1G9jXbVmWqH\nVFEYPC+UewKBgG91XGF1BX6NO+j5zPfaKoU1/Gf27sIYPFZRrtpUpu/FyYu/a+FA\nRqQ3orvj/BAXHwwY3cSVNbHMCMZ7p+To+Z4YglsMppN3ya0oVk0vg7+b7bx8rXeA\nCH5P4IVTay0VGjAanP+XqOiOWuwkJyjvYxfBo0paGdPa1SHKg9uoKaljAoGAXTRL\n8VXOZteqhJP42B0NDWiRjg1dgA6q2NnVjRXFv9NlqHghKMULj+UtBqkcYrjIMub+\njKaYiLYNoTBehmCz18U+c/2Yasoz9YmRJNWb/OPOZ9MDZiBU/EmN5+niDgvKrR8m\n4kiaxcNC5ZFcR2uqbq5rtdfm/BZXYVefc0qU6pUCgYEAuTVBXU3CMISHr7NVwVjp\nnoasNbCC9Mfi/CDFAZyhnyKypgktULqktpjDKSr0UoylVH39b4mzy+q4Khk7i9ya\nanUjJkl+sI5qVG8Bw6Z2Md9CAoA9HHmViVFN5KOQFAuKk6/PrY2912ydTQ7QBk56\nHbnyaLxSRjWyekZZlHMjNvg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "voice-agent-sa@hale-equator-441407-p4.iam.gserviceaccount.com",
+  "client_id": "106309135902118974814",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/voice-agent-sa%40hale-equator-441407-p4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
